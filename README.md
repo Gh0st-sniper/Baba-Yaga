@@ -1,2 +1,2 @@
 # Baba-Yaga
-An ssh bruteforcer written in ruby.
+A ssh bruteforcer written in ruby.
