@@ -1,5 +1,5 @@
-# Baba-Yaga
-A ssh bruteforcer written in python.
+# Baba-Yaga (FTP bruteforcer)
+A ftp bruteforcer written in python.
 
 #Usage:
 
